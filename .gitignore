@@ -1,12 +1,5 @@
 # 配布資料など
 lec2/ex2/*.ipynb
-<<<<<<< HEAD
-lec2/ex2/*.ipynb_checkpoints/
-lec2/*.ipynb_checkpoints/
-=======
-lec2/ex2/*.ipynb_checkpoints
-lec2/*.ipynb_checkpoints
->>>>>>> a70c17ee9f392a350addeeef5a8ada08d4cfb930
 lec2/hw2/*.ipynb
-lec2/hw2/*.ipynb_checkpoints/
+.ipynb_checkpoints/
 
